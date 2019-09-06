@@ -1,3 +1,3 @@
 # /bin/sh
 
-docker run coreywanless/chuck-norris
+docker run --rm coreywanless/chuck-norris:latest
